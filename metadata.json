@@ -1,0 +1,5 @@
+{
+  "name": "点点点 (Press Here)",
+  "description": "Interactive web adaptation of the children's book 'Press Here', supporting touch and device motion.",
+  "requestFramePermissions": ["microphone"]
+}
